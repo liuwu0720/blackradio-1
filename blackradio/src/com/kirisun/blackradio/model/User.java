@@ -10,7 +10,7 @@ package com.kirisun.blackradio.model;
 import java.io.Serializable;
 
 /**
- * 类描述：eee
+ * 类描述：登录用户
  * 
  * @version: 1.0
  * @author: liuwu
